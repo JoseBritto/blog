@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The magic spells behind file types
+title: The magic behind file types
 date: 2023-12-16 1:30 -0500
 image: /assets/img/wizard.png
 categories: ['Exploration', 'How stuff works']
