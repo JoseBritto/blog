@@ -1,8 +1,10 @@
 ---
 layout: post
-title: The wizards behind file types
+title: The magic spells behind file types
 date: 2023-12-16 1:30 -0500
 image: /assets/img/wizard.png
+categories: ['Exploration', 'How stuff works']
+tags: ['behind the scenes']
 ---
 
 We all know that file extensions are supposed to identify file types. But how many of you know that in most cases they
