@@ -19,7 +19,7 @@ title: Code Quests # the main title
 tagline: Random coding side quests # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A blog where I discuss the side random quests that I tackle during my journey as a developer.
+  A blog where I discuss the random side quests that I tackle during my journey as a developer.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
