@@ -1,17 +1,27 @@
 ---
 layout: post
-title: 'In a world of limitless memory'
-subtitle: "Exploring the unseen engine of modern computing"
+title: 'Into the world of virtual memory'
+undescription: 'Exploring the unseen engine of modern computing'
 date: 2024-08-06 1:30 -0500
 image: /assets/img/craiyon_circuit_board_mushroom.webp
 categories: ['Exploration', 'How stuff works']
 ---
-A brief breakdown of how modern memory management works.
+
+**A brief breakdown of how modern memory management works.**
 
 Today when most programmers deal with very high level programming languages like javascript and python, very little seem to pause to wonder how their code is actually run and how their variables are stored in RAM. 
 I'll try to give a high level overview of the sorcerery behind modern memory management.
 
-TODO: Add text here
+TODO: Proof Read & Modify
+
+## Physical Memory
+
+In the beginning, there was physical memory. It is the memory that is physically present on the system, like your RAM.
+It was limited and every program that ran on a computer had to directly access it.
+As the number of programs running on a system increased, it became harder for the individual programs find and allocate memory for themselves.
+This lead various engineers to experiment with adding an abstraction layer between the program and the physical memory.
+They called it virtual memory.
+
 
 ## Virtual Memory
 
