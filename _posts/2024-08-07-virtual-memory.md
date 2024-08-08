@@ -2,6 +2,7 @@
 layout: post
 title: 'Into the world of virtual memory'
 date: 2024-08-07 19:00 -0400
+description: 'A brief overview of how modern memory management works'
 image: /assets/img/craiyon_circuit_board_mushroom.webp
 categories: ['Exploration', 'How stuff works']
 ---

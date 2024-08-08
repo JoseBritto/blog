@@ -2,6 +2,7 @@
 layout: post
 title: The magic behind file types
 date: 2023-12-16 1:30 -0500
+description: 'How file types are determined by computers and why file extensions are mostly redundant? Read on to find out.'
 image: /assets/img/wizard.png
 categories: ['Exploration', 'How stuff works']
 ---
