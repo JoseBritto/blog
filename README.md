@@ -4,7 +4,7 @@ Welcome to the open-source repository for my personal blog 🌐
 
 Built on the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) template for Jekyll, this blog is a glimpse into my coding side quests, and tech explorations.
 
-### Run Locally:
+### Run Locally
   Follow Jekyll's [installation guide](https://jekyllrb.com/docs/installation/) to set up your local environment. Then clone the repository and run the following commands to start the server locally
   ```bash
     git clone https://github.com/JoseBritto/blog.git
