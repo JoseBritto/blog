@@ -34,7 +34,7 @@ I'll let wikipedia take the wheel and explain this term:
 > provides an "idealized abstraction of the storage resources that are actually available
 > on a given machine" which "creates the illusion to users of a very large (main) memory". - [Wikipedia](https://en.wikipedia.org/wiki/Virtual_memory)
 
-Hmm... That wasn't very helpful, at least for me. 
+Hmm... That was a mouthful. 
 
 Anyway, I'll try to explain what I understood reading from various
 different sources about this in the last few days.
@@ -47,7 +47,7 @@ this array would be of the size 2<sup>64</sup> bytes. That means about 17,179,86
 
 But where does the OS get that much memory from?
 
-One simple answer. **It doesn't.**
+Short answer: **It doesn't.**
 
 Unlike a regular array, the virtual memory is not a stretch of **real** continuos memory.
 It is a virtual address space given exclusively to that program. 
