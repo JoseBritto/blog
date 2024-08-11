@@ -88,7 +88,7 @@ on the RAM or any other media it desires allowing it to isolate process memories
 for security and to swap out less frequently used memory from RAM thereby allowing the the system 
 to use more memory than the physically available RAM.
 
-> Please reach out to me via email or open an issue on the github repo if you think there is something factually wrong in this blog post. I tried my best to understand the topic but I'm not an expert in this field.
+> Please reach out to me via email or open an issue on the  [github repo](https://github.com/JoseBritto/blog) if you think there is something factually wrong in this blog post. I tried my best to understand the topic but I'm not an expert in this field.
 {: .prompt-info }
 
 ## External Resources
