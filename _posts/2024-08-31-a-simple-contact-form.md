@@ -28,7 +28,7 @@ Maybe I am dumb and this was too obvious of a solution that no one felt like men
 Anyway, doesn't matter, I finally have a simple way to send messages from my website!
 
 ## A super quick tutorial
-This is super easy. If you read discord's [docs](discord.com/developers/docs/resources/webhook) you can see it's just one POST request and you're all set. 
+This is super easy. If you read discord's [docs](https://discord.com/developers/docs/resources/webhook) you can see it's just one POST request and you're all set. 
 No auth. No hassles. 
 Below is a simple fetch request that sends a message on discord:
 ```js
@@ -56,7 +56,7 @@ It is just a POST request with the message you want to send.
 There are more attributes that you can add instead of/along with the content attribute 
 like embeds or username to make it prettier to view in discord. 
 There are some limits as well that are enforced by discord to prevent abuse. 
-Read the [docs](discord.com/developers/docs/resources/webhook) and you'll understand.
+Read the [docs](https://discord.com/developers/docs/resources/webhook) and you'll understand.
 
 To get the webhook url you have to create a webhook in a discord channel. Preferably on a server you are the owner of.  
 Go to the channel you want messages to be sent in, click the settings icon near on the side bar right next to the channel name, 
