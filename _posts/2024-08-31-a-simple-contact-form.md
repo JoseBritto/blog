@@ -2,7 +2,7 @@
 layout: post
 title: 'A stupidly simple contact form'
 date: 2024-08-31 22:00 -0400
-description: 'A really simple way to have a working contact form on your website using discord webhooks'
+description: 'A simple way to add a working contact form to your website using Discord webhooks — no mail services or complex setups needed'
 image: /assets/img/contact_form_screenshot.png
 categories: ['Quick Tips']
 ---
