@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The magic behind file types
+title: The magic numbers behind file types
 date: 2023-12-16 1:30 -0500
-description: 'How file types are determined by computers and why file extensions are mostly redundant? Read on to find out.'
+description: 'Discover how magic numbers, not file extensions, often determine file types on your computer.'
 image: /assets/img/wizard.png
 categories: ['Exploration', 'How stuff works']
 ---
@@ -10,11 +10,11 @@ categories: ['Exploration', 'How stuff works']
 We all know that file extensions are supposed to identify file types. But how many of you know that in most cases they
 are mostly redundant? &#129300; 
 
-In today's side quest we explore the magic numbers that help our computers run everyday.
+In today's side quest we explore **magic numbers** — the hidden markers in your files that let your computer understand and handle files, even when extensions are misleading or absent.
 
-## Don't judge a file by its cover
+## Don't judge a file by its name
 
-Literally, just **don't**! Haha. I'll explain. 
+Or in this case, its extension to be precise.
 
 First I'm gonna need you to grab your closest png file laying around.
 
