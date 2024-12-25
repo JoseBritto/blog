@@ -41,9 +41,11 @@ Did you notice that I said that the file won't open for most of you (instead of 
 There is a reason for that. If you are using linux, you probably were able to open the file correctly.
 You usually would be able to open the image even without any file extension. 
 Whereas windows freaks out if you do this.
-This is because there are other ways to detect a file type.
+This is because there are other ways to detect a file type. 
 
-## The magic numbers &#x1FA84;
+Enter **the magic numbers** &#x1F9D9;
+
+## So, What Are Magic Numbers?
 I want you to open your friendly neighbourhood terminal and `cd` to the directory where the image you just opened is.  
 Now execute this command:
 ```bash
